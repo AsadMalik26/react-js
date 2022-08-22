@@ -1,0 +1,15 @@
+ [
+  {
+    "id": 0,
+    "img": "./image.jpg"
+  },
+  {
+    "id": 1,
+    "img": "./image2.jpg"
+  },
+  {
+    "id": 2,
+    "img": "./image3.jpg"
+  }
+]
+
